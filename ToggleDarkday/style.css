@@ -1,0 +1,16 @@
+.togglebtn-dark{
+   background-color: black;
+   color: white;
+}
+.togglebtn-day{
+   background-color: white;
+   color: black;
+}
+body{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+align-items: center;
+}
